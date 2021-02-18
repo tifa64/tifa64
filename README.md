@@ -2,7 +2,7 @@
 
 #### I'm Mostafa
 
-- 🔭 I’m currently working on Amazon Wishlist improvement
+- 🔭 I’m currently working on improving customer shopping experience in Amazon
 - 🌱 I’m currently learning AWS, Ethereum, System design and architecture
 - 💬 Feel free to check my presentation on [How to get into big tech company while maintaining mental health](https://docs.google.com/presentation/d/1AVwRv83tuqN53ERjlJohsJFhDT3hNfhVfan0tD1RINM/edit?usp=sharing)
 - 😄 Pronouns: Him/Yasta
